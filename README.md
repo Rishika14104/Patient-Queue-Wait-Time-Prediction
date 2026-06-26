@@ -170,7 +170,9 @@ Add screenshots of:
 
 Store them inside the **screenshots/** folder.
 
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/2022dc17-cc19-4d9f-8cbf-955b176b3496" />
 
+<img width="1920" height="1020" alt="Image" src="https://github.com/user-attachments/assets/8d972e07-7996-43db-b8e7-a9387b909a21" />
 
 
 ---
